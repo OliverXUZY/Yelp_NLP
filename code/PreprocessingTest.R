@@ -25,8 +25,8 @@ library(ggthemes)
 require(reshape2)
 
 # save api key
-register_google(key = "AIzaSyCxtwY_KMPBdIULl3wtNKSTSPRLppa3J-E")
-
+#register_google(key = "")
+#This is register code: AIzaSyCxtwY_KMPBd#IULl3wtNKS#TSPRLppa3J-E
 # check if key is saved
 has_google_key()
 
