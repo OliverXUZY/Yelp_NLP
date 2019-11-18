@@ -1,5 +1,5 @@
 # Yelp_NLP
-
+This is the final project of Data science project course STAT628 in 2019 fall intructed by Prof. Hyunseung Kang. The institute is UW-Madison.
 
 ## Introduction
 “Yelp connects people with great local businesses.” It is of great convenience for people to obtain information from the YELP app as well as share their own experience. An increasing number of business owners begin to use Yelp as an efficient feedback mechanism to achieve greater success.
